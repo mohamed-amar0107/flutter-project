@@ -54,22 +54,22 @@ The application follows a clear and intuitive navigation flow:
 5. **Settings**  
    Allows users to modify theme preferences and language settings.
 
----
 ## Application Screenshots
 
 ### Login Screen
-![Login Screen](screenshots/login_screen.png)
+<img src="assets/signin.jfif" alt="Login Screen" width="300"/>
 
 ### Product Catalog
-![Product Catalog](screenshots/product_catalog.png)
+<img src="assets/product.jfif" alt="Product Catalog" width="300"/>
 
 ### Shopping Cart
-![Shopping Cart](screenshots/shopping_cart.png)
+<img src="assets/carousel.jfif" alt="Shopping Cart" width="300"/>
 
 ### Settings
-![Settings](screenshots/settings.png)
+<img src="assets/settings.jfif" alt="Settings" width="300"/>
 
 ---
+
 
 
 ## 3. Technical Implementation
