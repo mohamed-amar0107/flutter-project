@@ -55,6 +55,22 @@ The application follows a clear and intuitive navigation flow:
    Allows users to modify theme preferences and language settings.
 
 ---
+## Application Screenshots
+
+### Login Screen
+![Login Screen](screenshots/login_screen.png)
+
+### Product Catalog
+![Product Catalog](screenshots/product_catalog.png)
+
+### Shopping Cart
+![Shopping Cart](screenshots/shopping_cart.png)
+
+### Settings
+![Settings](screenshots/settings.png)
+
+---
+
 
 ## 3. Technical Implementation
 
@@ -80,19 +96,3 @@ The application follows a clear and intuitive navigation flow:
   The layout adapts to different screen sizes and orientations (Portrait / Landscape).
 - **Data Persistence:**  
   To satisfy the **V3 requirement**, cart data is stored locally, preserving user selections even after app restarts.
-
----
-
-## 4. Academic Evaluation Criteria (V1–V8)
-
-The project meets the following evaluation standards:
-
-- **V1 – Stability:** Fully functional Android application with no crashes.
-- **V2 – Navigation:** Clear navigation using AppBar and icons.
-- **V3 – Local Storage:** Shopping cart stored using a local database.
-- **V4 – Server Connection:** RESTful integration with FakeStoreAPI.
-- **V5 – Responsive UI:** Adaptive layouts for different orientations.
-- **V6 – State Management:** Clean architecture using the Provider package.
-- **V7 – UX / Design:** Custom themes, readable typography, and intuitive layouts.
-
----
